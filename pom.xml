@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cassandra.driver.version>3.1.4</cassandra.driver.version>
         <dw.cassandra.version>4.1.0</dw.cassandra.version>
-        <netty.version>4.1.34.Final</netty.version>
+        <netty.version>4.1.46.Final</netty.version>
     </properties>
     <dependencies>
         <dependency>
